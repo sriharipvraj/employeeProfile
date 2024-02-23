@@ -1,0 +1,335 @@
+.logo{
+    width: 150px;
+    height: 150px;
+    
+
+}
+.logodiv{
+    /* border: 1px solid black; */
+    width: 160px;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.19);
+}
+.mainpage{
+    background-color: black;
+}
+.profilepic{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 15px;
+    
+}
+.profilediv p{
+    font-weight: 900;
+    font-size: 10px;
+    text-align: center;
+    
+
+        
+}
+
+.profilediv{
+    /* margin-left: 35px; */
+    width: 160px;
+    height: 130px;
+    /* border: 1px solid black; */
+    margin-top: 1px;
+    /* box-shadow: 0.5px 0.5px 5px  ; */
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+#emailid{
+    font-weight: 500;
+}
+
+.buttondiv{
+    margin-top: 1px;
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    width: 160px;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.btnwithicon{
+    background-color: white;
+    width: 140px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 5px;
+    text-align: left;
+    border: none;
+    box-shadow: 0.1px 0.2px 1px ;
+    font-weight: 500;
+
+    
+
+}
+#logout{
+    margin-top: 180px;
+    width: 159px;
+    text-align: center;
+}
+
+.btnicon{
+    float: left;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-right: 20px;
+}
+button.btnwithicon:hover{
+    background-color: #D5ECF2;
+}
+
+
+.Fullset1{
+    /* border: 1px solid black; */
+    width: 161px;
+}
+.page{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+.header{
+    /* border: 1px solid black; */
+    background-color:#D5ECF2;
+    height: 150px;
+    width: 100%;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+}
+
+.headerbtn{
+    float: right;
+    margin-right: 30px;
+    background-color: white;
+    border: none;
+    margin-top: 60px;
+    border-radius: 5px ;
+}
+#cname{
+    margin-right:7px;
+}
+
+.Fullset2{
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.chooseaplan{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.monthoranual{
+    padding: 10px;
+    margin-left: 1050px;
+   
+}
+.timebtn{
+    border-radius: 20px;
+}
+.cardgrp{
+
+    
+    padding: 10px;
+
+}
+.cardbtn1{
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    background-color:#F9DE72;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    
+
+}
+.cardbtn2{
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    background-color:#FB6934;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    
+
+}
+.cardbtn3{
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    background-color:#EF8EB5;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    
+
+}
+.arrow1{
+    margin-left: 10px;
+}
+
+.cards{
+    display: flex;
+    margin-left: 30px;
+    height: 350px;
+   
+}
+
+.cards1{
+    width: 300px;
+    margin-left: 100px;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+
+}
+.explore{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+}
+.cardlist{
+    list-style: none;
+    font-size: 15px;
+}
+.hcard{
+    width: 530px;
+    margin-left: 127px;
+    margin-top: 10px;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+
+}
+.cards2{
+    display: flex;
+}
+.hcard1{
+    width: 530px;
+    margin-left: 48px;
+    margin-top: 10px;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+
+    
+
+}
+.card2btn{
+    border: none;
+    border-radius: 10px;
+    background-color:#79FC65;
+
+
+}
+
+.card2btn1{
+    border: none;
+    border-radius: 10px;
+    background-color:#8BB2F5;
+
+}
+.cardcol{
+    padding: 10px;
+    margin-left: 20px;
+}
+.btncard2{
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    background-color:#79FC65;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    
+}
+.cardtxt{
+    font-size: 10px;
+    font-weight: 500;
+    
+}
+.cardlist2{
+    padding: 10px;
+    list-style: none;
+    font-size: 10px;
+}
+
+.btncard22{
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    background-color:#8BB2F5;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    
+}
+
+.fdiv{
+    /* border: 1px solid brown; */
+    background-color: #D5ECF2;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 2px 5px 0 rgba(0, 0, 0, 0.19);
+    
+    
+    
+}
+.fbtn1{
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 37px;
+    margin-top: 170px;
+}
+.fbtn2{
+    width: 30px;
+    height: 120px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 280px;
+    margin-left: 37px;
+}
+.plus{
+    margin-left: 36px;
+    margin-top: 50px;
+}
+
+
+
+    
+
+@media screen and (max-width: 400px) {
+    .cards{
+        
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        flex: 1;
+    }
+    .cards1{
+        height: auto;
+        flex: 1;
+        
+    }
+    .monthoranual{
+        padding: 10px;
+        float: left;
+       
+    }
+
+
+    
+  }
